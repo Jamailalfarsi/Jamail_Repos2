@@ -11,7 +11,7 @@ public class Read {
     {
  
         // File path is passed as parameter
-        File file = new File( "C:\\Users\\user021\\eclipse-workspace\\Jamail_course_Repo\\src\\JSONFile.text");
+        File file = new File( "C:\\Users\\user021\\eclipse-workspace\\Jamail_course_Repo\\src\\JSONFile.txt");
  
         // Note:  Double backquote is to avoid compiler
         // interpret words
