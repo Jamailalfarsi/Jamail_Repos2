@@ -4,10 +4,14 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
+
+
 public class Read {
 
 	 // main driver method
-    public static void main(String[] args) throws Exception
+    private static final String String = null;
+
+	public static void main(String[] args) throws Exception
     {
  
         // File path is passed as parameter
@@ -28,5 +32,9 @@ public class Read {
  
             // Print the string
             System.out.println(st);
+       // SearchFile searchInput=new SearchFile();
+       //   searchInput.parseFile(string s);
+      
+     
     }
 }
